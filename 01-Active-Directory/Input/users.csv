@@ -1,0 +1,4 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,Manager
+1001,Rahul,Sharma,ITAdmins,System Administrator,John
+1002,Priya,Patel,HR,HR Executive,Sarah
+1003,Amit,Verma,Finance,Accountant,David

@@ -1,0 +1,5 @@
+﻿"ServerName","EventID","Description","TimeCreated","ProviderName","RecordID","Level","Message"
+"DC","-1","ERROR","17-11-2026 22:37:24","Microsoft-Windows-Security-Auditing",,"ERROR","No events were found that match the specified selection criteria."
+"SVR01","-1","ERROR","17-11-2026 22:37:25","Microsoft-Windows-Security-Auditing",,"ERROR","No events were found that match the specified selection criteria."
+"SVR02","-1","ERROR","17-11-2026 22:37:25","Microsoft-Windows-Security-Auditing",,"ERROR","No events were found that match the specified selection criteria."
+"SVR03","-1","ERROR","17-11-2026 22:37:26","Microsoft-Windows-Security-Auditing",,"ERROR","No events were found that match the specified selection criteria."

@@ -1,0 +1,37 @@
+[2026-11-17 22:52:26] [INFO] ============================================================
+[2026-11-17 22:52:26] [INFO] CONFIGURATION COMPLIANCE SCAN
+[2026-11-17 22:52:26] [INFO] ============================================================
+[2026-11-17 22:52:26] [INFO] Compliance Version : 1.0
+[2026-11-17 22:52:26] [INFO] Servers            : 4
+[2026-11-17 22:52:26] [INFO] Disk Requirement   : >= 20%
+[2026-11-17 22:52:26] [INFO] Execution Mode     : READ ONLY
+[2026-11-17 22:52:26] [INFO] ============================================================
+[2026-11-17 22:52:26] [INFO] ------------------------------------------------------------
+[2026-11-17 22:52:26] [INFO] Scanning: DC
+[2026-11-17 22:52:26] [INFO] DC - WinRM: PASS
+[2026-11-17 22:52:32] [INFO] DC - Compliance: 73% - NON-COMPLIANT
+[2026-11-17 22:52:32] [INFO] ------------------------------------------------------------
+[2026-11-17 22:52:32] [INFO] Scanning: SVR01
+[2026-11-17 22:52:32] [INFO] SVR01 - WinRM: PASS
+[2026-11-17 22:52:35] [INFO] SVR01 - Compliance: 91% - NON-COMPLIANT
+[2026-11-17 22:52:35] [INFO] ------------------------------------------------------------
+[2026-11-17 22:52:35] [INFO] Scanning: SVR02
+[2026-11-17 22:52:35] [INFO] SVR02 - WinRM: PASS
+[2026-11-17 22:52:37] [INFO] SVR02 - Compliance: 73% - NON-COMPLIANT
+[2026-11-17 22:52:37] [INFO] ------------------------------------------------------------
+[2026-11-17 22:52:37] [INFO] Scanning: SVR03
+[2026-11-17 22:52:37] [INFO] SVR03 - WinRM: PASS
+[2026-11-17 22:52:40] [INFO] SVR03 - Compliance: 73% - NON-COMPLIANT
+[2026-11-17 22:52:40] [INFO] CSV report created: .\Reports\CSV\Configuration-Compliance-20261117-225226.csv
+[2026-11-17 22:52:40] [INFO] HTML report created: .\Reports\Configuration-Compliance-20261117-225226.html
+[2026-11-17 22:52:40] [INFO] ============================================================
+[2026-11-17 22:52:40] [INFO] COMPLIANCE SCAN COMPLETED
+[2026-11-17 22:52:40] [INFO] ============================================================
+[2026-11-17 22:52:40] [INFO] Servers scanned       : 4
+[2026-11-17 22:52:40] [INFO] Compliant             : 0
+[2026-11-17 22:52:40] [INFO] Non-Compliant         : 4
+[2026-11-17 22:52:40] [INFO] Errors                : 0
+[2026-11-17 22:52:40] [INFO] CSV Report            : .\Reports\CSV\Configuration-Compliance-20261117-225226.csv
+[2026-11-17 22:52:40] [INFO] HTML Report           : .\Reports\Configuration-Compliance-20261117-225226.html
+[2026-11-17 22:52:40] [INFO] Log File              : .\Reports\Logs\Compliance-20261117-225226.log
+[2026-11-17 22:52:40] [INFO] ============================================================

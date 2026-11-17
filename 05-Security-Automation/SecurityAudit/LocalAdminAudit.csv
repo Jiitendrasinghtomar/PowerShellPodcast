@@ -1,0 +1,8 @@
+﻿"ServerName","AccountName","Domain","UserName","ObjectClass","Enabled","PrincipalSource","Status"
+"DC","ERROR",,,,,,"Group Administrators was not found."
+"SVR01","APEXAURA\Domain Admins","APEXAURA","Domain Admins","Group",,"ActiveDirectory","Found"
+"SVR01","SVR01\Administrator","SVR01","Administrator","User","True","Local","Found"
+"SVR02","APEXAURA\Domain Admins","APEXAURA","Domain Admins","Group",,"ActiveDirectory","Found"
+"SVR02","SVR02\Administrator","SVR02","Administrator","User","True","Local","Found"
+"SVR03","APEXAURA\Domain Admins","APEXAURA","Domain Admins","Group",,"ActiveDirectory","Found"
+"SVR03","SVR03\Administrator","SVR03","Administrator","User","True","Local","Found"

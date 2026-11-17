@@ -1,0 +1,5 @@
+﻿"ServerName","Firewall","WinRM","WindowsUpdate","W32Time","RDP","GuestAccount","SMBv1","PasswordPolicy","CriticalServices","Disk","Defender","PendingReboot","Compliance","Status","Error"
+"DC","FAIL","PASS","FAIL","PASS","PASS","PASS","PASS","REVIEW","FAIL","PASS","PASS","PASS","73%","NON-COMPLIANT",""
+"SVR01","FAIL","PASS","PASS","PASS","PASS","PASS","PASS","REVIEW","PASS","PASS","PASS","PASS","91%","NON-COMPLIANT",""
+"SVR02","FAIL","PASS","FAIL","PASS","PASS","PASS","PASS","REVIEW","FAIL","PASS","PASS","PASS","73%","NON-COMPLIANT",""
+"SVR03","FAIL","PASS","FAIL","PASS","PASS","PASS","PASS","REVIEW","FAIL","PASS","PASS","PASS","73%","NON-COMPLIANT",""

@@ -1,0 +1,5 @@
+ServerName,Environment,Application,Owner,Criticality
+DC,Production,AD,Infrastructure,Critical
+SVR01,Production,File,Database,Critical
+SVR02,Production,IIS,Application,High
+SVR03,Development,IIS,Development,Medium

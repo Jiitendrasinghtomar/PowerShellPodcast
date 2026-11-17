@@ -1,0 +1,5 @@
+"ServerName","Environment","Status","Uptime","CDriveSpace","Memory","CPU"
+"DC","Production","Online","0 Days 12 Hours 22 Minutes","61.67%","73.28%","2%"
+"SVR01","Production","Online","0 Days 11 Hours 59 Minutes","82.55%","52.63%","0%"
+"SVR02","Production","Online","0 Days 11 Hours 59 Minutes","82.54%","52.6%","3%"
+"SVR03","Development","Offline","N/A","N/A","N/A","N/A"

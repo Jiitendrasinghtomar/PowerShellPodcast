@@ -1,0 +1,62 @@
+/* Page */
+body {
+    margin: 0;
+    padding: 30px;
+
+    font-family: Arial, sans-serif;
+
+    text-align: center;
+
+    background-color: #f4f4f4;
+}
+
+
+/* Table */
+table {
+    margin: 0 auto;
+
+    width: auto;
+
+    border-collapse: collapse;
+
+    table-layout: auto;
+}
+
+
+/* Table rows */
+tr {
+    text-align: center;
+}
+
+
+/* Table headers */
+th {
+    padding: 12px 20px;
+
+    text-align: center;
+
+    border: 1px solid #333;
+
+    background-color: #222;
+    color: white;
+
+    white-space: nowrap;
+}
+
+
+/* Table data */
+td {
+    padding: 10px 20px;
+
+    text-align: center;
+
+    border: 1px solid #333;
+
+    white-space: nowrap;
+}
+
+
+/* Row hover */
+tr:hover {
+    background-color: #e8e8e8;
+}

@@ -1,0 +1,83 @@
+[2026-11-17 22:35:01] [ERROR] Unable to read CSV: Access to the path 'C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\Config' is denied.
+[2026-11-17 22:35:43] [INFO] ============================================================
+[2026-11-17 22:35:43] [INFO] SECURITY AUDIT STARTED
+[2026-11-17 22:35:43] [INFO] ============================================================
+[2026-11-17 22:35:43] [INFO] Servers discovered: 4
+[2026-11-17 22:35:43] [INFO] Event investigation period: Last 4 day(s)
+[2026-11-17 22:35:43] [INFO] Start time: 11/13/2026 22:35:43
+[2026-11-17 22:35:43] [INFO] ------------------------------------------------------------
+[2026-11-17 22:35:43] [INFO] Processing server: DC
+[2026-11-17 22:35:44] [INFO] DC - WinRM connectivity: PASS
+[2026-11-17 22:35:44] [INFO] DC - Local Administrators found: 0
+[2026-11-17 22:35:44] [INFO] DC - Security events found: 0
+[2026-11-17 22:35:44] [INFO] ------------------------------------------------------------
+[2026-11-17 22:35:44] [INFO] Processing server: SVR01
+[2026-11-17 22:35:44] [INFO] SVR01 - WinRM connectivity: PASS
+[2026-11-17 22:35:45] [INFO] SVR01 - Local Administrators found: 2
+[2026-11-17 22:35:45] [INFO] SVR01 - Security events found: 0
+[2026-11-17 22:35:45] [INFO] ------------------------------------------------------------
+[2026-11-17 22:35:45] [INFO] Processing server: SVR02
+[2026-11-17 22:35:45] [INFO] SVR02 - WinRM connectivity: PASS
+[2026-11-17 22:35:45] [INFO] SVR02 - Local Administrators found: 2
+[2026-11-17 22:35:45] [INFO] SVR02 - Security events found: 0
+[2026-11-17 22:35:45] [INFO] ------------------------------------------------------------
+[2026-11-17 22:35:45] [INFO] Processing server: SVR03
+[2026-11-17 22:35:45] [INFO] SVR03 - WinRM connectivity: PASS
+[2026-11-17 22:35:46] [INFO] SVR03 - Local Administrators found: 2
+[2026-11-17 22:35:46] [INFO] SVR03 - Security events found: 0
+[2026-11-17 22:35:46] [INFO] Exporting Local Administrator report...
+[2026-11-17 22:35:46] [INFO] Exporting Security Event report...
+[2026-11-17 22:35:46] [INFO] ============================================================
+[2026-11-17 22:35:46] [INFO] SECURITY AUDIT COMPLETED
+[2026-11-17 22:35:46] [INFO] ============================================================
+[2026-11-17 22:35:46] [INFO] Servers scanned       : 4
+[2026-11-17 22:35:46] [INFO] Successful servers    : 4
+[2026-11-17 22:35:46] [INFO] Failed servers        : 0
+[2026-11-17 22:35:46] [INFO] Local admin entries   : 7
+[2026-11-17 22:35:46] [INFO] Security events       : 4
+[2026-11-17 22:35:46] [INFO] Local Admin CSV       : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\LocalAdminAudit.csv
+[2026-11-17 22:35:46] [INFO] Security Events CSV   : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\SecurityEventAudit.csv
+[2026-11-17 22:35:46] [INFO] HTML Report           : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\SecurityAudit.html
+[2026-11-17 22:35:46] [INFO] Log File              : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\Logs\SecurityAudit.log
+[2026-11-17 22:35:46] [INFO] ============================================================
+[2026-11-17 22:37:24] [INFO] ============================================================
+[2026-11-17 22:37:24] [INFO] SECURITY AUDIT STARTED
+[2026-11-17 22:37:24] [INFO] ============================================================
+[2026-11-17 22:37:24] [INFO] Servers discovered: 4
+[2026-11-17 22:37:24] [INFO] Event investigation period: Last 7 day(s)
+[2026-11-17 22:37:24] [INFO] Start time: 11/10/2026 22:37:24
+[2026-11-17 22:37:24] [INFO] ------------------------------------------------------------
+[2026-11-17 22:37:24] [INFO] Processing server: DC
+[2026-11-17 22:37:24] [INFO] DC - WinRM connectivity: PASS
+[2026-11-17 22:37:24] [INFO] DC - Local Administrators found: 0
+[2026-11-17 22:37:24] [INFO] DC - Security events found: 0
+[2026-11-17 22:37:24] [INFO] ------------------------------------------------------------
+[2026-11-17 22:37:24] [INFO] Processing server: SVR01
+[2026-11-17 22:37:24] [INFO] SVR01 - WinRM connectivity: PASS
+[2026-11-17 22:37:25] [INFO] SVR01 - Local Administrators found: 2
+[2026-11-17 22:37:25] [INFO] SVR01 - Security events found: 0
+[2026-11-17 22:37:25] [INFO] ------------------------------------------------------------
+[2026-11-17 22:37:25] [INFO] Processing server: SVR02
+[2026-11-17 22:37:25] [INFO] SVR02 - WinRM connectivity: PASS
+[2026-11-17 22:37:25] [INFO] SVR02 - Local Administrators found: 2
+[2026-11-17 22:37:25] [INFO] SVR02 - Security events found: 0
+[2026-11-17 22:37:25] [INFO] ------------------------------------------------------------
+[2026-11-17 22:37:25] [INFO] Processing server: SVR03
+[2026-11-17 22:37:25] [INFO] SVR03 - WinRM connectivity: PASS
+[2026-11-17 22:37:26] [INFO] SVR03 - Local Administrators found: 2
+[2026-11-17 22:37:26] [INFO] SVR03 - Security events found: 0
+[2026-11-17 22:37:26] [INFO] Exporting Local Administrator report...
+[2026-11-17 22:37:26] [INFO] Exporting Security Event report...
+[2026-11-17 22:37:26] [INFO] ============================================================
+[2026-11-17 22:37:26] [INFO] SECURITY AUDIT COMPLETED
+[2026-11-17 22:37:26] [INFO] ============================================================
+[2026-11-17 22:37:26] [INFO] Servers scanned       : 4
+[2026-11-17 22:37:26] [INFO] Successful servers    : 4
+[2026-11-17 22:37:26] [INFO] Failed servers        : 0
+[2026-11-17 22:37:26] [INFO] Local admin entries   : 7
+[2026-11-17 22:37:26] [INFO] Security events       : 4
+[2026-11-17 22:37:26] [INFO] Local Admin CSV       : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\LocalAdminAudit.csv
+[2026-11-17 22:37:26] [INFO] Security Events CSV   : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\SecurityEventAudit.csv
+[2026-11-17 22:37:26] [INFO] HTML Report           : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\SecurityAudit.html
+[2026-11-17 22:37:26] [INFO] Log File              : C:\Users\Administrator.DC\Desktop\AD-Administration\05-Security-Automation\SecurityAudit\Logs\SecurityAudit.log
+[2026-11-17 22:37:26] [INFO] ============================================================

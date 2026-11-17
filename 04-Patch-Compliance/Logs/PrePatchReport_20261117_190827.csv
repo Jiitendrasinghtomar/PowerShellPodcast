@@ -1,0 +1,2 @@
+"ServerName","OSVersion","OSBuild","LastBoot","InstalledUpdates","LatestUpdateKB","LatestUpdateDate","PendingUpdateCount","PendingUpdates","RebootRequired","WindowsUpdateService","PSComputerName","RunspaceId","PSShowComputerName"
+"SVR03","Microsoft Windows Server 2019 Datacenter Evaluation","17763","15-11-2026 20:07:54","3","KB5020374","05-11-2022 00:00:00","1","Unable to query Windows Update","False","Running","SVR03","0cc94b72-37bb-4802-8897-a9fd51c90f23","True"
